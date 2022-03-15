@@ -12,5 +12,6 @@ O projeto utiliza as seguintes linguagens e frameworks:
 - [Cucumber-Junit] Framework de integração do Cucumber com o Junit
 - [Cucumber-Testng] Framework de integração do Cucumber com o TestNg
 
-Reporte gerado em HTML após rodar a automação:
+### Reporte gerado em HTML após rodar a automação:
+
 ![image](https://user-images.githubusercontent.com/89037663/158283089-bbc14be0-3df8-4e1b-abb7-7820fa51e299.png)
