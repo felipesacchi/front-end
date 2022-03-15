@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="12.204">
+    <testcase classname="para testar login" name=": Checar se o login foi sucesso" time="5.158">
+        <system-out>
+            <![CDATA[Dado usuario esta na pagina de login........................................passed
+Quando o usuario entra com test1 e 12345....................................passed
+E clica no botao de login...................................................passed
+Entao verifico botao logout.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="para testar login" name=": Checar se o login foi sucesso 2" time="3.476">
+        <system-out>
+            <![CDATA[Dado usuario esta na pagina de login........................................passed
+Quando o usuario entra com test2 e 12345....................................passed
+E clica no botao de login...................................................passed
+Entao verifico botao logout.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="para testar login" name="Validar texto de senha invalida" time="3.383">
+        <system-out>
+            <![CDATA[Dado usuario esta na pagina de login........................................passed
+Quando o usuario entra com test1 e senha....................................passed
+E clica no botao de login...................................................passed
+Entao a mensagem "Password is invalid" sera exibida.........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
