@@ -15,3 +15,7 @@ O projeto utiliza as seguintes linguagens e frameworks:
 ### Reporte gerado em HTML após rodar a automação:
 
 ![image](https://user-images.githubusercontent.com/89037663/158283089-bbc14be0-3df8-4e1b-abb7-7820fa51e299.png)
+
+
+https://user-images.githubusercontent.com/89037663/169668368-f9f5914b-5f3d-43a2-94d4-c047d8b407c1.mp4
+
